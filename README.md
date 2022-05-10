@@ -2,12 +2,6 @@
 
 The purpose of the repository is to have a toolkit for evaluating the different EDR solutions in the market.
 
-## Use Cases
-
-1. POCs: Endpoint detection agents / compromise assessment tools
-2. Test your security monitoring's detection capabilities
-3. Test your SOCs response on a threat that isn't EICAR or a port scan
-4. Prepare an environment for digital forensics classes
 
 ## Motives
 
