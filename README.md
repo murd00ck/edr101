@@ -1,6 +1,7 @@
 # Vendor Selection EDR 101
 
 The purpose of the repository is to have a toolkit for evaluating the different EDR solutions in the market.
+This was part of a presentation at HackInBo Business Edition 2022, here you find the slides.
 
 
 ## Purpose
