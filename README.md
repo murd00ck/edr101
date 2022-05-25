@@ -18,4 +18,4 @@ Gartner - Market Guide for Managed Detection and Response Services;
 
 ## Contact
 
-Follow and contact me on Twitter @murd00ck
+Follow and contact me on [Twitter](https://twitter.com/murd00ck) @murd00ck
